@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rolling-stock-identification/static/css/main.964fdded.css",
-    "main.js": "/rolling-stock-identification/static/js/main.413c26f7.js",
+    "main.css": "/rolling-stock-identification/static/css/main.b1264cb0.css",
+    "main.js": "/rolling-stock-identification/static/js/main.e8275c5f.js",
     "static/js/453.31ae42f5.chunk.js": "/rolling-stock-identification/static/js/453.31ae42f5.chunk.js",
     "index.html": "/rolling-stock-identification/index.html",
-    "main.964fdded.css.map": "/rolling-stock-identification/static/css/main.964fdded.css.map",
-    "main.413c26f7.js.map": "/rolling-stock-identification/static/js/main.413c26f7.js.map",
+    "main.b1264cb0.css.map": "/rolling-stock-identification/static/css/main.b1264cb0.css.map",
+    "main.e8275c5f.js.map": "/rolling-stock-identification/static/js/main.e8275c5f.js.map",
     "453.31ae42f5.chunk.js.map": "/rolling-stock-identification/static/js/453.31ae42f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.964fdded.css",
-    "static/js/main.413c26f7.js"
+    "static/css/main.b1264cb0.css",
+    "static/js/main.e8275c5f.js"
   ]
 }
